@@ -15,12 +15,8 @@ openconnect-as is am AppleScript for Openconnect Vpn.
 3. edit autoOpenVpn.applescript
 ## Usage
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```bash
+osascript /{Your Path}/autoOpenVpn.applescript
 ```
 
 ## Contributing
